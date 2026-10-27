@@ -1,6 +1,6 @@
 ## Ссылка
 
-https://katerinagirle.github.io/teplo_component/?utm_source=chatgpt.com
+https://katerinagirle.github.io/teplo_component/
 
 ## Описание
 
