@@ -20,7 +20,7 @@ https://katerinagirle.github.io/teplo_component/
 
 ## Figma
 
-ссылка на макет
+https://www.figma.com/proto/DQTwCA3YR7CYircb399i31/%D0%BA%D0%BA?node-id=3460-251&viewport=-980%2C673%2C0.05&t=cqGisdW8TPcTtxWT-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=3447%3A893&page-id=3070%3A2&show-proto-sidebar=1
 
 ## Использование ИИ
 
